@@ -22,7 +22,7 @@ stored in Folder called "Divider-" as Extra.txt.The limit depends on architectur
 
 Key points:
 
-Your Original File Will be as it is no chande will be made to it.
+Your Original File Will be as it is no change will be made to it.
 
 
 :-)
